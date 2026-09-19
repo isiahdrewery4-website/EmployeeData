@@ -1,0 +1,5 @@
+Employee                 Rate    Hours  Gross Pay
+John Smith              25.50     40.0    1020.00
+Mary Jones              30.00     35.0    1050.00
+David Brown             22.75     42.0     955.50
+Isiah Drewery           70.50     40.0    2820.00

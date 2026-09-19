@@ -1,0 +1,6 @@
+Student                Test1   Test2   Test3   Test4   Test5   Average
+Michael Johnson           85      92      78      88      95     87.60
+Sarah Williams            90      84      91      87      93     89.00
+Isaiah Drewery            88      90      85      92      95     90.00
+James Anderson            76      82      89      80      91     83.60
+Emily Carter              94      87      90      92      88     90.20
